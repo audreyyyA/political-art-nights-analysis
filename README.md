@@ -23,6 +23,9 @@ This analysis evaluates participant satisfaction, acquisition channels, and audi
 ### 4. Audience Loyalty & Retention
 * **Overall Loyalty:** Across all events, the baseline intent to return is strong, with an **overall top-box fidelity rate of 67.0%**.
 * **First-Timer Effect:** The fidelity score drops sharply for *"There will be soup"* (**38.5%**). Because this event drew a large volume of new attendees, lower initial retention is expected compared to niche events hosted for a core group of recurring participants.
+* <img width="404" height="282" alt="image" src="https://github.com/user-attachments/assets/83f41db4-0141-4b24-bca1-2f70e815169b" />
+
+<img width="579" height="368" alt="image" src="https://github.com/user-attachments/assets/67b89c60-5a46-4e0c-87ca-26a27bdea112" />
 
 ---
 
